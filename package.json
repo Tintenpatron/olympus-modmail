@@ -1,0 +1,11 @@
+{
+  "name": "olympus-modmail",
+  "version": "1.0.0",
+  "description": "Modmail bot for olympus",
+  "main": "src/app.js",
+  "author": "Tinte",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
